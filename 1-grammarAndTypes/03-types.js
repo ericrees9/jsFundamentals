@@ -123,3 +123,4 @@ console.log(myNameIs.toLowerCase());
 
 let home = "My home is Indianapolis";
 console.log(home.includes("Indiana"));
+
