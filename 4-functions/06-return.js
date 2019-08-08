@@ -58,3 +58,4 @@ function tipCal(bill) {
 } 
 
 tipCal(33);
+
