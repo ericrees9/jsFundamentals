@@ -49,6 +49,8 @@ console.log(tipCal(25))
 
 // ----
 
+let bill = 27.00;
+
 function tipCal(bill) {
     let tipPercent = .25;
     let tipAmount = bill * tipPercent;
